@@ -31,7 +31,6 @@ const days = [
     "Saturday"
 ];
 
-// Button click
 document.querySelector("button").addEventListener("click", function () {
 
     const day = parseInt(document.getElementById("day").value);
@@ -40,7 +39,6 @@ document.querySelector("button").addEventListener("click", function () {
 
     const gender = document.querySelector('input[name="gender"]:checked');
 
-    // Validation
     if (!day || day < 1 || day > 31) {
         alert("Please enter a valid day (1-31).");
         return;
