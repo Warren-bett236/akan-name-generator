@@ -14,7 +14,7 @@ body{
 }
 
 .container{
-    background:rgb(16, 186, 39);
+    background:whitesmoke;
     width:400px;
     padding:30px;
     border-radius:10px;
@@ -23,7 +23,7 @@ body{
 
 h1{
     text-align:center;
-    color:#48502c;
+    color:#503d2c;
     margin-bottom:15px;
 }
 
