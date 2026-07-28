@@ -63,17 +63,6 @@ cd akan-name-generator
 
 Add a screenshot of your application here after completing the project.
 
-##  Known Bugs
-
-- No known bugs at the moment.
-
-##  Future Improvements
-
-- Improve the user interface.
-- Add dark mode.
-- Allow users to reset the form.
-- Display additional information about Akan names.
-
 ##  License
 
 This project is licensed under the MIT License.
