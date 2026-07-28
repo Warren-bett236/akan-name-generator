@@ -58,7 +58,7 @@ button{
     margin-top:20px;
     padding:12px;
     background:#007bff;
-    color:white;
+    color:rgb(255, 255, 255);
     border:none;
     border-radius:5px;
     cursor:pointer;
