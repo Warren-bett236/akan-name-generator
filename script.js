@@ -1,4 +1,4 @@
-// Male Akan names
+
 const maleNames = [
     "Kwasi",    // Sunday
     "Kwadwo",   // Monday
@@ -9,7 +9,6 @@ const maleNames = [
     "Kwame"     // Saturday
 ];
 
-// Female Akan names
 const femaleNames = [
     "Akosua",   // Sunday
     "Adwoa",    // Monday
@@ -20,7 +19,6 @@ const femaleNames = [
     "Ama"       // Saturday
 ];
 
-// Days of the week
 const days = [
     "Sunday",
     "Monday",
@@ -59,7 +57,7 @@ document.querySelector("button").addEventListener("click", function () {
         return;
     }
 
-    // Calculate day of the week
+
     const birthDate = new Date(year, month - 1, day);
     const dayIndex = birthDate.getDay();
 

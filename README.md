@@ -2,9 +2,8 @@
 
 ##  Description
 
-The Akan Name Generator is a simple web application that calculates the day of the week a user was born and assigns the corresponding Ghanaian Akan name based on their gender.
+The Akan Name Generator is a simple web application that calculates the day of the week a person was born and assigns the corresponding Ghanaian Akan name based on their gender.
 
-Akan names are traditional names given to children in Ghana according to the day of the week they were born.
 
 ##  Author
 
@@ -24,31 +23,6 @@ Warren Bett
 - CSS3
 - JavaScript
 
-##  Project Structure
-
-```
-akan-name-generator/
-│── index.html
-│── styles.css
-│── script.js
-└── README.md
-```
-
-##  Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/Warren-bett236/akan-name-generator.git
-```
-
-2. Open the project folder:
-
-```bash
-cd akan-name-generator
-```
-
-3. Open `index.html` in your browser.
 
 ##  How to Use
 
